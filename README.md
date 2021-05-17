@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shizanutik321
+- 👋 Hi, I’m Max
 - 👀 I’m interested in QA Automation
 - 🌱 I’m currently learning python\pytest\selenium
 - 💞️ I’m looking to collaborate on ...
